@@ -1,0 +1,23 @@
+{
+  "name": "2g04bot",
+  "version": "1.0.0",
+  "description": "A bot for the 2G04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedGl0w/2G04Bot.git"
+  },
+  "keywords": [
+    "2G04",
+    "bot"
+  ],
+  "author": "redgl0w (Joachim Le Fournis)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedGl0w/2G04Bot/issues"
+  },
+  "homepage": "https://github.com/RedGl0w/2G04Bot#readme"
+}
